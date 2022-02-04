@@ -6,5 +6,3 @@ Stratagies:
   2. Using git diff to see changes before I commit.
 Shoutout:
   To my husband James, who has been keeping me sane and encouraging me to pursue coding.
-
-Adding some thoughts
